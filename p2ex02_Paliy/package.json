@@ -1,9 +1,8 @@
 {
-  "name": "p2ex2_paliy",
+  "name": "p2ex02_pligin",
   "version": "1.0.0",
   "main": "index.ts",
   "dependencies": {
-    "@expo/metro-runtime": "~57.0.16",
     "expo": "~57.0.26",
     "expo-status-bar": "~57.0.1",
     "react": "19.2.3",
